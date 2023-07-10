@@ -16,11 +16,14 @@
       Primary Key: cpg_id
    According to the relational and jonnable keys, ER diagram was created by draw.io shown in ERD.drawio.png.
     
-3. Second: Write a query that directly answers a predetermined question from a business stakeholder
+2. Second: Write a query that directly answers a predetermined question from a business stakeholder
+   
    (Shown in queries.sql. For this part, I mergeed the 6 questions into 3 for efficiency.)
    
-4. Third: Evaluate Data Quality Issues in the Data Provided
+3. Third: Evaluate Data Quality Issues in the Data Provided
+   
    (Shown in receipts_quality.html)
    
-5. Fourth: Communicate with Stakeholders
+4. Fourth: Communicate with Stakeholders
+   
    (Shown in Email.pdf)
